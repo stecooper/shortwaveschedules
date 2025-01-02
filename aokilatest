@@ -5341,8 +5341,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 15715 VOICE OF AMERICA                0100-0130 .23456. Rohingya             250 283 Tinang                PHL 152244N1203733E VOA/AGM b24
 15715 VOICE OF AMERICA                1130-1200   17    English              250 300 Udon Thani            THA 174030N1031201E VOA/AGM b24
 15720 R.NEW ZEALAND INT.              1759-1858 123456. English               50 325 Rangitaiki            NZL 385002S1762501E RNZ b24
-15720 R.NEW ZEALAND INT.              1759-2158    7    English               50  35 Rangitaiki            NZL 385002S1762501E RNZ b24
-15720 R.NEW ZEALAND INT.              -         123456  English               50  35 Rangitaiki            NZL 385002S1762501E RNZ b24
+15720 R.NEW ZEALAND INT.              1759-2158 1234567 English               50  35 Rangitaiki            NZL 385002S1762501E RNZ b24
 15720 CHINA R.INT. (DRM) 3F2 xHE AAC  0657-0757 1234567 Chinese(Digital)     150 135 Kunming-Anning 501    CHN 245235N1022917E DRM CRI b24
 15720 WINB DRM                        1000-1400 .23456. English(Digital)      15  62 Red Lion              USA 395418N0763457W WINB a23
 15725*R.FREE ASIA                     1300-1400 1234567 Tibetan              250 315 Tinang                PHL 152244N1203733E RFA4/AGM b24
